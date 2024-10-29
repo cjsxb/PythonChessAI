@@ -25,6 +25,7 @@
 - **Piece Value**: The bot will trade a queen for a bishop, they do not know any better
 - **Bitboards**: SalmonSpaghetti does not have eyes. It is spaghetti. We will give them eyes soon.
 
-<small><i>Sneak Peek: Salmon Spaghetti in training.</i></small>
- <img src="https://github.com/user-attachments/assets/1a39c887-f12d-4a73-99d5-8bdbcefdf482" alt="Alt text" width="25%" />
 
+ <img src="https://github.com/user-attachments/assets/1a39c887-f12d-4a73-99d5-8bdbcefdf482" alt="Alt text" width="25%" />
+ <br>
+ <small><i>Sneak Peek: Salmon Spaghetti in training.</i></small>
