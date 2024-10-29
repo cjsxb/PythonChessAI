@@ -7,18 +7,18 @@
 
 <div style="text-align: center;">
    <img src="https://github.com/user-attachments/assets/bad91b9b-9ea2-43b8-8b0b-e1131f639554" alt="Salmon Spaghetti Demo" width="25%" />
-   Salmon Spaghetti v1.0 beating me in an ultrabullet chess game.
+   <small><i>Salmon Spaghetti v1.0 beating me in an ultrabullet chess game.</i></small>
 </div>
-
-### As of v1.0, this Chess AI is not the smartest. The bot has some strategy though, such as:
-- **Checkmate in 1**: Be careful, because SalmonSpaghetti does not miss Mate in 1.
-- **Free Pieces**: SalmonSpaghetti tries not to hang its pieces, and tries to take free pieces but they are not perfect just yet.
-- **King Safety**: The bot tries to avoid walking into checkmate. See if you can beat them at Bullet Chess! (1+0)?
 
 ### Key Features:
 - **[Beserk](https://pypi.org/project/berserk/)**: Uses Beserk Python Client for connecting to Lichess API. Handles token session, JSON and PGN.
 - **[Python-Chess](https://python-chess.readthedocs.io/en/latest/)**: Uses Python Chess Library for move generation, validation and allows for bot to play chess variants such as [Chess960](https://en.wikipedia.org/wiki/Fischer_random_chess)
 - **[Lichess](https://lichess.org/@/SalmonSpaghetti)**: Popular Non-Profit Chess Platform
+
+### As of v1.0, this Chess AI is not the smartest. The bot has some strategy though, such as:
+- **Checkmate in 1**: Be careful, because SalmonSpaghetti does not miss Mate in 1.
+- **Free Pieces**: SalmonSpaghetti tries not to hang its pieces, and tries to take free pieces but they are not perfect just yet.
+- **King Safety**: The bot tries to avoid walking into checkmate. See if you can beat them at Bullet Chess! (1+0)?
 
 ### SalmonSpaghetti is trying the best to improve with some cheeky puzzles. Next things to implement is:
 - **Move Depth**: SalmonSpaghetti does not look past depth1/2
