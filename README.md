@@ -4,7 +4,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
-![SalmonSpaghetti v1.0](https://imgur.com/a/LQypASf?raw=true)
+![SalmonSpaghetti v1.0](https://imgur.com/a/LQypASf.gif?raw=true)
 
 ### As of v1.0, this Chess AI is not the smartest. The bot has some strategy though, such as:
 - **Checkmate in 1**: Be careful, because SalmonSpaghetti does not miss Mate in 1.
@@ -19,4 +19,4 @@
 ### SalmonSpaghetti is trying the best to improve with some cheeky puzzles. Next things to implement is:
 - **Move Depth**: SalmonSpaghetti does not look past depth1/2
 - **Piece Value**: The bot will trade a queen for a bishop, they do not know any better
-- **Bitboards**: SalmonSpaghetti does not have eyes. They are spaghetti. We will give them eyes soon.
+- **Bitboards**: SalmonSpaghetti does not have eyes. It is spaghetti. We will give them eyes soon.
