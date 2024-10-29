@@ -1,7 +1,7 @@
 ﻿# SalmonSpaghetti
- 
- ![SalmonSpaghettiAI](https://github.com/user-attachments/assets/1a39c887-f12d-4a73-99d5-8bdbcefdf482)
 
+ <img src="https://github.com/user-attachments/assets/1a39c887-f12d-4a73-99d5-8bdbcefdf482" alt="Alt text" width="25%" />
+ 
 **ChessAI** created using Python, playable on [Lichess](https://lichess.org/@/SalmonSpaghetti)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
