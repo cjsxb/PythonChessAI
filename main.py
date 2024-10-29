@@ -5,7 +5,7 @@ from SalmonSpaghetti import SalmonSpaghetti
 
 # API Token, DO NOT SHARE
 token = os.getenv("API_TOKEN")
-session = berserk.TokenSession("lip_R8E6dNuIQbhk5Gg71NXY")
+session = berserk.TokenSession("")
 client = berserk.Client(session=session)
 
 # When first making bot account on Lichess, must upgrade new account to BOT with
