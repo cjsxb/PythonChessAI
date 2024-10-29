@@ -4,11 +4,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
-
-
-Check out the demo video on [YouTube](https://www.youtube.com/watch?v=nedLKexuEBI) to see how this project works!
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=nedLKexuEBI" frameborder="0" allowfullscreen></iframe>
+[![SalmonSpaghetti v1.0](https://img.youtube.com/vi/nedLKexuEBI/0.jpg)](https://www.youtube.com/watch?v=nedLKexuEBI)
 
 ### As of v1.0, this Chess AI is not the smartest. The bot has some strategy though, such as:
 - **Checkmate in 1**: Be careful, because SalmonSpaghetti does not miss Mate in 1.
