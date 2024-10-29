@@ -8,7 +8,7 @@
 <div style="text-align: center;">
    <img src="https://github.com/user-attachments/assets/bad91b9b-9ea2-43b8-8b0b-e1131f639554" alt="Salmon Spaghetti Demo" width="25%" />
 </div>
-<small><i>Salmon Spaghetti 🍣🍝🤖 v1.0 beating me in an ultrabullet chess game.</i></small>
+<small><i>Salmon Spaghetti v1.0 beating me in an ultrabullet chess game.</i></small>
 
 ### 📖 Key Features :
 - **[Beserk](https://pypi.org/project/berserk/)**: Uses Beserk Python Client for connecting to Lichess API. Handles token session, JSON and PGN.
@@ -25,5 +25,6 @@
 - **Piece Value**: The bot will trade a queen for a bishop, they do not know any better
 - **Bitboards**: SalmonSpaghetti does not have eyes. It is spaghetti. We will give them eyes soon.
 
+<small><i>Sneak Peek: Salmon Spaghetti in training.</i></small>
  <img src="https://github.com/user-attachments/assets/1a39c887-f12d-4a73-99d5-8bdbcefdf482" alt="Alt text" width="25%" />
- <small><i>Salmon Spaghetti 🍣🍝🤖 in training.</i></small>
+
