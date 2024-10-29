@@ -2,10 +2,12 @@ import berserk
 import os
 from Game import Game
 from SalmonSpaghetti import SalmonSpaghetti
+from dotenv import load_dotenv
 
 # API Token, DO NOT SHARE
+load_dotenv()
 token = os.getenv("API_TOKEN")
-session = berserk.TokenSession("")
+session = berserk.TokenSession(token)
 client = berserk.Client(session=session)
 
 # When first making bot account on Lichess, must upgrade new account to BOT with

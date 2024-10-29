@@ -1,0 +1,12 @@
+# Ignore the .env file containing secrets
+.env
+
+# Ignore Python cache directories
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore PyCharm IDE settings
+.idea
