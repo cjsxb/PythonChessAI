@@ -1,6 +1,4 @@
 ﻿# SalmonSpaghetti
-
- <img src="https://github.com/user-attachments/assets/1a39c887-f12d-4a73-99d5-8bdbcefdf482" alt="Alt text" width="25%" />
  
 **ChessAI** created using Python, playable on [Lichess](https://lichess.org/@/SalmonSpaghetti)
 
@@ -23,3 +21,9 @@
 - **Move Depth**: SalmonSpaghetti does not look past depth1/2
 - **Piece Value**: The bot will trade a queen for a bishop, they do not know any better
 - **Bitboards**: SalmonSpaghetti does not have eyes. It is spaghetti. We will give them eyes soon.
+
+<div style="text-align: center;">
+
+ <img src="https://github.com/user-attachments/assets/1a39c887-f12d-4a73-99d5-8bdbcefdf482" alt="Alt text" width="25%" />
+ Salmon Spaghetti is trying their best.
+</div
