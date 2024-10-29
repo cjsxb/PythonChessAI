@@ -7,6 +7,10 @@
 
 ![SalmonSpaghettiv1Demo](https://github.com/user-attachments/assets/bad91b9b-9ea2-43b8-8b0b-e1131f639554)
 
+<div style="text-align: center;">
+   <img src="https://github.com/user-attachments/assets/bad91b9b-9ea2-43b8-8b0b-e1131f639554" alt="Salmon Spaghetti Demo" width="25%" />
+</div>
+
 ### As of v1.0, this Chess AI is not the smartest. The bot has some strategy though, such as:
 - **Checkmate in 1**: Be careful, because SalmonSpaghetti does not miss Mate in 1.
 - **Free Pieces**: SalmonSpaghetti tries not to hang its pieces, and tries to take free pieces but they are not perfect just yet.
@@ -22,8 +26,5 @@
 - **Piece Value**: The bot will trade a queen for a bishop, they do not know any better
 - **Bitboards**: SalmonSpaghetti does not have eyes. It is spaghetti. We will give them eyes soon.
 
-<div style="text-align: center;">
-
  <img src="https://github.com/user-attachments/assets/1a39c887-f12d-4a73-99d5-8bdbcefdf482" alt="Alt text" width="25%" />
  Salmon Spaghetti is trying their best.
-</div
