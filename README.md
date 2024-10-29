@@ -1,10 +1,10 @@
 ﻿# SalmonSpaghetti
-**Playable ChessAI** created using Python, playable on [Lichess](https://lichess.org/@/SalmonSpaghetti)
+**ChessAI** created using Python, playable on [Lichess](https://lichess.org/@/SalmonSpaghetti)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
-![SalmonSpaghetti v1.0](https://imgur.com/a/LQypASf)
+![SalmonSpaghetti v1.0](https://imgur.com/a/LQypASf?raw=true)
 
 ### As of v1.0, this Chess AI is not the smartest. The bot has some strategy though, such as:
 - **Checkmate in 1**: Be careful, because SalmonSpaghetti does not miss Mate in 1.
