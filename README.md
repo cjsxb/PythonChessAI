@@ -15,6 +15,14 @@
 - **[Python-Chess](https://python-chess.readthedocs.io/en/latest/)**: Uses Python Chess Library for move generation, validation and allows for bot to play chess variants such as [Chess960](https://en.wikipedia.org/wiki/Fischer_random_chess)
 - **[Lichess](https://lichess.org/@/SalmonSpaghetti)**: Popular Non-Profit Chess Platform
 
+### Setup Steps
+- Step 1: Create a Lichess account and do not play any games on the account
+- Step 2: Generate an API token with all permissions in [Lichess Settings](https://lichess.org/account/oauth/token)
+- Step 3: Create a .env file and insert API token OR just paste the API token in the code (unsafe)
+- Step 4: Uncomment or run client.account.upgrade_to_bot to convert to BOT account. If you see BOT next to your username, it worked.
+- Step 5: Run the code and challenge the bot on a seperate Lichess account, and it will be playing!
+  
+
 ### 👓 As of v1.0, this Chess AI is not the smartest. The bot has some strategy though, such as:
 - **Checkmate in 1**: Be careful, because SalmonSpaghetti does not miss Mate in 1.
 - **Free Pieces**: SalmonSpaghetti tries not to hang its pieces, and tries to take free pieces but they are not perfect just yet.
