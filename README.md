@@ -15,7 +15,7 @@
 - **[Python-Chess](https://python-chess.readthedocs.io/en/latest/)**: Uses Python Chess Library for move generation, validation and allows for bot to play chess variants such as [Chess960](https://en.wikipedia.org/wiki/Fischer_random_chess)
 - **[Lichess](https://lichess.org/@/SalmonSpaghetti)**: Popular Non-Profit Chess Platform
 
-### Setup Steps
+### 👨🏻‍💻 Setup Steps
 - Step 1: Create a Lichess account and do not play any games on the account
 - Step 2: Generate an API token with all permissions in [Lichess Settings](https://lichess.org/account/oauth/token)
 - Step 3: Create a .env file and insert API token OR just paste the API token in the code (unsafe)
